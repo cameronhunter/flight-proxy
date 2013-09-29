@@ -1,7 +1,7 @@
 {
   "name": "flight-proxy",
   "description": "A Flight component for triggering a target event when a source event occurs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/proxy.js",
   "dependencies": {
     "flight": "~1.1.0"
