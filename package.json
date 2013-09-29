@@ -1,5 +1,6 @@
 {
   "name": "flight-proxy",
+  "description": "A Flight component for triggering a target event when a source event occurs",
   "version": "1.0.0",
   "devDependencies": {
     "matchdep": "latest",
