@@ -1,4 +1,6 @@
-# flight-proxy [![Build Status](https://secure.travis-ci.org/cameronhunter/flight-proxy.png)](http://travis-ci.org/cameronhunter/flight-proxy)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/) [![Build Status](https://secure.travis-ci.org/cameronhunter/flight-proxy.svg)](http://travis-ci.org/cameronhunter/flight-proxy)
+
+# flight-proxy
 
 A [Flight](https://github.com/flightjs/flight) component for triggering a target event when a source event occurs. Event data is also proxied from source to target.
 
